@@ -4,7 +4,7 @@
 ## FEWD - HTML BASICS
 
 ### Instructors
-Kit Yuen & Mart van de Ven 
+Kit Yuen & Mart van de Ven
 
 
 
@@ -47,7 +47,6 @@ Mart van de Ven
 * Developer, DemandAnalytics (2012) / DemystData (2013)
 * Coding as Prism
 * G.U.I.D.E.
-* Open Source & Open Data
 
 
 
@@ -56,7 +55,8 @@ Mart van de Ven
 
 * Class Structure
 * Final Project
-  * [Example](http://studio.generalassemb.ly/HK/FEWD1/Sean/project/v3/)
+  * [FEWD HK Example](http://studio.generalassemb.ly/HK/FEWD1/Sean/project/v3/)
+  * [GA Gallery](https://generalassemb.ly/gallery)
 * Grading Policy
 
 
@@ -68,31 +68,6 @@ Mart van de Ven
 * What are you hoping to achieve
 * Already have any plans for your project?
 * Fill out the [GA Student Profile](https://generalassembly.wufoo.com/forms/student-profile-fewd-hong-kong-5/)!
-
-
-
-## What is Web Development?
-<aside class="notes">Kit ~ 3 Min</aside>
-
-### Client-Side
-
-* HTML
-* CSS
-* JavaScript
-
-
-
-## What is Web Development?
-<aside class="notes"></aside>
-
-### Server-Side
-
-* Ruby
-* PHP
-* Python
-* PERL
-* C++
-
 
 
 ## What is Web Development?
@@ -120,9 +95,33 @@ Website
 Web applications
 
 * Online shop
-* http://www.amazon.com 
+* http://www.amazon.com
 * Social networks
 * http://www.facebook.com
+
+
+
+## What is Web Development?
+<aside class="notes">Mart ~ 10 Min</aside>
+
+### Client-Side
+
+* HTML
+* CSS
+* JavaScript
+
+
+
+## What is Web Development?
+<aside class="notes"></aside>
+
+### Server-Side
+
+* Ruby
+* PHP
+* Python
+* PERL
+* C++
 
 
 
@@ -140,7 +139,7 @@ For a static website, web development can simply refer to:
 
 
 ## How a web project works?
-<aside class="notes"></aside>
+<aside class="notes">Kit</aside>
 
 
 
@@ -209,46 +208,7 @@ Project Management Tools
 
 
 
-## Version Control
-<aside class="notes">Mart ~ 60 Min</aside>
 
-### Installation
-
-* Linux: [Git](https://help.github.com/articles/set-up-git)
-* Mac: [git-osx-installer](https://code.google.com/p/git-osx-installer/)
-* Mac(Alternative):[Homebrew](http://brew.sh/), [XCode](https://developer.apple.com/xcode/)
-* Windows: [GitHub on Windows](http://windows.github.com/)
-* Verify the git installation in Terminal/PowerShell
-  * `git --version`
-
-
-
-## Git Concepts
-<aside class="notes">
-  Mart ~ 10 Min
-  Provide a high-level overview of the work-flow in Git by talking about how the following items make distirbuted collaboration possible
-</aside>
-
-### The Hash
-### The Branch
-### The Diff
-### The Merge
-
-
-
-## Version Control
-<aside class="notes">
-  Help the students to fork the repository and setup the gh-pages branch
-</aside>
-
-* Sign-up with [GitHub](https://github.com/signup/free)
-* `fork` the [FEWD repository](https://github.com/ga-students/FEWD_HK_5)
-* Open Terminal/PowerShell and checkout the source code by
-  * `git clone https://github.com/ga-students/FEWD_HK_5.git`
-* [Pave the way](https://help.github.com/articles/making-changes) for your final project
-* Serve your website with [GitHub Pages](https://help.github.com/articles/creating-project-pages-manually)
-* [Marvel](https://github.com/) at your mastery over Git
-* ... the most complicated tool built by mankind
 
 
 
@@ -256,7 +216,7 @@ Project Management Tools
 <aside class="notes">Mart ~ 3 Min</aside>
 
 * Visit [http://ga-students.github.io/FEWD_HK_5/](http://ga-students.github.io/FEWD_HK_5/) for the slides
-* Or check the slides markdown file in your local FEWD repository.  
+* Or check the slides markdown file in your local FEWD repository.
 * Ask questions via E-mail or [Github Issues](https://github.com/ga-students/FEWD_HK_5/issues).
 * Setup Google+ to receive e-mail notifications if you haven't already
 
