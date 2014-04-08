@@ -50,12 +50,13 @@ Mart van de Ven
 * Open Source & Open Data
 
 
+
 ## Course Information
 <aside class="notes">Mart ~ 3 Min</aside>
 
 * Class Structure
 * Final Project
-  * [Example](http://studio.generalassemb.ly/HK/FEWD1/Sean/1_Projects/0_final_v3/)
+  * [Example](http://studio.generalassemb.ly/HK/FEWD1/Sean/project/v3/)
 * Grading Policy
 
 
@@ -66,7 +67,7 @@ Mart van de Ven
 * Tell us a bit about yourselves
 * What are you hoping to achieve
 * Already have any plans for your project?
-* Fill out the [GA Student Profile](https://generalassembly.wufoo.com/forms/z1h8zknc05ro769/)!
+* Fill out the [GA Student Profile](https://generalassembly.wufoo.com/forms/student-profile-fewd-hong-kong-5/)!
 
 
 
