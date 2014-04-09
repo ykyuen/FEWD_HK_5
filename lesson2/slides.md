@@ -10,7 +10,6 @@ Kit Yuen & Mart van de Ven
 
 ## Agenda
 
-* Manage your Git Repo
 * HTML Basics Review
 * Images
 * Intro To CSS
@@ -19,74 +18,6 @@ Kit Yuen & Mart van de Ven
   * Fonts
 * Linking To Other Pages
 * Lab Time
-
-
-
-## Manage your Git Repo
-<aside class="notes">Mart ~ 15 Min</aside>
-
-### Let's do everything on Sublime Text
-
-Create a new project in sublime text with your local repository as project root
-
-
-
-## Commit your code
-<aside class="notes">Mart ~ 35 Min</aside>
-
-Commit your changes and push it to your forked repository
-
-1. Make some changes or create a new file in your local repo
-
-1. Add your changes so they are staged
-  * Shift + Cmd + P and select **Git: Add...**
-  * You can add all changes or any single file
-
-1. Commit your change locally
-  * Shift + Cmd + P and select **Git: Commit**
-  * Enter your commit message a the newly opened tab
-  * Close the tab to complete your commit
-
-1. Push to your forked repo on GitHub
-  * Shift + Cmd + P and select **Git: Push**
-
-
-
-## Setup the **upstream**
-<aside class="notes"></aside>
-
-Keep your forked repository up to date.
-
-1. Shift + Cmd + P and select **Git: Custom Command**
-
-1. Add ga-students/FEWD_HK_4 as your `upstream` repo
-```
-remote add upstream https://github.com/ga-students/FEWD_HK_4.git
-```
-
-
-
-## **Merge** latest changes from **upstream**
-<aside class="notes"></aside>
-
-**Merge** latest changes from [ga-students/FEWD_HK_4](https://github.com/ga-students/FEWD_HK_4) to your personal, forked repository.
-
-1. Invoke **Git: Custom Command** and enter the following line to check if there is any update from upstream
-```
-fetch upstream
-```
-1. Invoke **Git: Custom Command** and enter the following line to get the latest code from upstream to your local machine
-```
-merge upstream/gh-pages
-```
-1. Invoke the **Git: Push** to push the update back to your forked repo
-
-
-
-## What Tag Is It?
-<aside class="notes">Kit ~ Cover topics missed in first class ~ 20 Min</aside>
-
-![GeneralAssemb.ly](../assets/images/icons/code_along.png)
 
 
 
