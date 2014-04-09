@@ -23,7 +23,6 @@ Kit Yuen & Mart van de Ven
 
 
 
-
 ## Who we are
 <aside class="notes">Kit ~ 3 Min</aside>
 
@@ -68,6 +67,7 @@ Mart van de Ven
 * What are you hoping to achieve
 * Already have any plans for your project?
 * Fill out the [GA Student Profile](https://generalassembly.wufoo.com/forms/student-profile-fewd-hong-kong-5/)!
+
 
 
 ## What is Web Development?
@@ -206,10 +206,6 @@ Project Management Tools
 * Try to make a good first impression.
 * You will love `p`.
 * [Hacks](http://hexlator.blogspot.hk/2013/05/best-sublime-text-2-tips-tricks-hacks.html), [Tips](http://net.tutsplus.com/articles/news/perfect-workflow-in-sublime-text-free-course/) & [Tricks](http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/)
-
-
-
-
 
 
 
