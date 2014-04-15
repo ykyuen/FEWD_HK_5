@@ -4,7 +4,7 @@
 ## FEWD - Advanced CSS
 
 ### Instructors
-Kit Yuen & Mart van de Ven 
+Kit Yuen & Mart van de Ven
 
 
 
@@ -77,7 +77,7 @@ Kit Yuen & Mart van de Ven
 
 
 ## Classes & Ids
-<aside class="notes">Kit ~ 10 mins</aside>
+<aside class="notes">Mart ~ 10 mins</aside>
 
 ### With classes and ids we can target specific elements on a page, so we can manipulate it uniquely.
 ```
@@ -92,7 +92,7 @@ h1.tagline { color: blue; } /* Only apply to the <h1> tag which has class = tagl
 
 
 ## Classes & Ids
-<aside class="notes">Kit ~ 10 mins</aside>
+<aside class="notes">Mart ~ 10 mins</aside>
 
 How to __select__ classes in CSS?
 
