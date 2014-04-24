@@ -51,7 +51,7 @@ The must-have tool in development!
 
 
 ## CSS: Positioning
-<aside class="notes">Kit (10 Min)</aside>
+<aside class="notes">Mart (25 Min)</aside>
 
 * ```position: static;```
 * ```position: fixed;```
@@ -61,7 +61,7 @@ The must-have tool in development!
 
 
 ## CSS: Block Element VS Inline Element
-<aside class="notes">Kit (10 Min)</aside>
+<aside class="notes">Kit (15 Min)</aside>
 
 * ```display: block;```
 * ```display: inline;```
@@ -69,7 +69,7 @@ The must-have tool in development!
 
 
 ## CSS: Block Element VS Inline Element
-<aside class="notes">Kit (10 Min)</aside>
+<aside class="notes"></aside>
 
 ### Block-level elements
 
@@ -83,7 +83,7 @@ The must-have tool in development!
 
 
 ## CSS: Block Element VS Inline Element
-<aside class="notes">Kit (10 Min)</aside>
+<aside class="notes"></aside>
 
 ### Inline-level elements
 
@@ -95,7 +95,7 @@ The must-have tool in development!
 
 
 ## Startup Matchmaker 
-<aside class="notes">Both (180 Min)</aside>
+<aside class="notes">Both (120 Min)</aside>
 
 ![GeneralAssemb.ly](../assets/images/icons/exercise_icon_md.png)
 
